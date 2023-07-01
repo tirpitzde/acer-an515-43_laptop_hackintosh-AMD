@@ -2074,7 +2074,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02030200J900001H</string>
+			<string></string>
 			<key>ProcessorType</key>
 			<integer>1793</integer>
 			<key>ROM</key>
@@ -2086,9 +2086,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro16,3</string>
 			<key>SystemSerialNumber</key>
-			<string>C02D4NZCP3XY</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>E4BB46AF-1FA7-49E5-9C3A-002669311513</string>
+			<string></string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -2099,13 +2099,13 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>f////wgAAAA=</data>
 			<key>MLB</key>
-			<string>C02030200J900001H</string>
+			<string></string>
 			<key>ROM</key>
 			<data>cHPLwOUL</data>
 			<key>SystemSerialNumber</key>
-			<string>C02D4NZCP3XY</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>E4BB46AF-1FA7-49E5-9C3A-002669311513</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
