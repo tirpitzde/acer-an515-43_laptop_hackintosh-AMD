@@ -27,3 +27,12 @@ Touchpad：SY7NADB5 Polling mode
 
 ![截屏2023-07-01 00 15 44](https://github.com/tirpitzde/acer-an515-43_laptop_hackintosh-AMD/assets/24861849/7fcf627b-abdb-4385-ada0-46e1dffd20aa)
 
+
+![Screenshot_20230629_123204_com oray sunlogin](https://github.com/tirpitzde/acer-an515-43_laptop_hackintosh-AMD/assets/24861849/c71a0e8d-f97a-4383-aa5e-119fda59d1ff)
+
+Ventura 13.4.1 Geekbench 6测试
+
+
+![Screenshot_20220908_025744_com oray sunlogin](https://github.com/tirpitzde/acer-an515-43_laptop_hackintosh-AMD/assets/24861849/90f29c16-5c88-4df6-80b0-61ab97ab13f6)
+
+Bigsur 11.7.8 Geekbench 6测试
